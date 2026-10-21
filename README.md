@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Identity & Authorisation — Series Hub
 
 Who is the user, and what may they (or their workload) do? A primer, seven decks on identity and federation, and three on authorisation, from password hashing to service meshes and gateways.
